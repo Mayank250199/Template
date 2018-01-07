@@ -1,6 +1,8 @@
 # Template
 Simple Template 
 
+Go and visit it at https://mayank250199.github.io/Template/anime.html
+
 ![alt text](images/screenshot.jpg)
 
 ![alt text](images/screenshot1.jpg)
